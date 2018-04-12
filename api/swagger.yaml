@@ -13,7 +13,7 @@ info:
   license:
     name: "MIT"
     url: "http://opensource.org/licenses/MIT"
-host: "rcis18-petstore-jga-jgaralo.c9users.io"
+host: "rcis18-petstore-jga.herokuapp.com"
 schemes:
 - "https"
 consumes:
